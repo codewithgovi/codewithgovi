@@ -8,19 +8,19 @@ I started my career as a **Java Backend Developer**, explored **full-stack devel
 
 ## 🔥 Tech Skills
 
-### 🛠️ Data Engineering
+***Data Engineering***
 - Python | PySpark | Spark SQL
 - ETL Pipelines | Data Transformation
 - Data Lake / Delta Lake / Lakehouse
 - Data Quality, Monitoring & Observability
 
-### ☁️ Cloud & DevOps
+***Cloud & DevOps***
 - AWS (EC2, RDS, S3, Lambda)
 - Docker & Containers
 - Git & GitHub
 - Linux / Shell Scripting
 
-### 🧑‍💻 Backend & Full-Stack
+***Backend & Full-Stack***
 - Java | Spring Boot | Hibernate
 - REST APIs | Microservices
 - SQL | PostgreSQL | MongoDB
