@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Govardhan Kamsali
 
-### 🎓 Postgraduate (PG Diploma) from IIIT Bangalore | 🚀 Data Engineer | 💻 Full-Stack Java Developer 
+### Senior Data Engineer 
 
 I started my career as a **Java Backend Developer**, explored **full-stack development** with Spring Boot and React, and now I’m fully focused on **Data Engineering**, building scalable data pipelines and solving real-world data problems.
 
 ---
 
-## 🔥 Tech Skills
+## Tech Skills
 
 ***Data Engineering***
 - Python | PySpark | Spark SQL
@@ -28,20 +28,20 @@ I started my career as a **Java Backend Developer**, explored **full-stack devel
 
 ---
 
-## 📌 Currently Working On
+## Currently Working On
 - Designing **end-to-end data pipelines** for analytics
 - Building **ETL workflows** with PySpark & SQL
 - Implementing **data quality checks** and monitoring
 
 
-## 📂 **Featured Projects**
+## **Featured Projects**
 
-### 🧹 **Data Engineering Projects**
+### **Data Engineering Projects**
 
 * ETL pipelines with PySpark and SQL
 * Data quality checks and monitoring solutions
 
-### 🌐 **Full-Stack Java Projects**
+### **Full-Stack Java Projects**
 
 * Backend with Spring Boot and REST APIs
 * Frontend with HTML, CSS, React
