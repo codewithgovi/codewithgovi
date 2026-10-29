@@ -5,7 +5,7 @@ Databricks Certified Data Engineer Associate
 
 I build cloud data pipelines that turn high-volume, multi-source data into reliable, analytics-ready datasets. 5+ years on Azure and Snowflake, from requirements through deployment and production support.
 
-## 🔧 What I work on
+## What I work on
 
 - **ETL/ELT pipelines:** ADF, Databricks, PySpark, ADLS Gen2, Snowflake
 - **Lakehouse & Medallion architecture:** Bronze/Silver/Gold on Delta Lake
@@ -14,7 +14,7 @@ I build cloud data pipelines that turn high-volume, multi-source data into relia
 - **Performance tuning:** partition pruning, broadcast joins, AQE, file compaction
 - **Security & DevOps:** Key Vault, Entra ID, Snowflake RBAC, CI/CD with Azure DevOps and GitHub
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
@@ -28,6 +28,6 @@ I build cloud data pipelines that turn high-volume, multi-source data into relia
 **Languages:** Python, SQL, PySpark, Spark SQL
 **Formats & storage:** Delta Lake, Parquet
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/govardhan-kamsali-a995b3158/
