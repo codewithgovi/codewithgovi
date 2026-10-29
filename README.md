@@ -1,53 +1,33 @@
-# 👋 Hi, I'm Govardhan Kamsali
+# Hi, I'm Govardhan Kamsali👋
 
-### Senior Data Engineer 
+**Azure Data Engineer** | Snowflake • Databricks • PySpark • Azure Data Factory
+Databricks Certified Data Engineer Associate
 
-I started my career as a **Java Backend Developer**, explored **full-stack development** with Spring Boot and React, and now I’m fully focused on **Data Engineering**, building scalable data pipelines and solving real-world data problems.
+I build cloud data pipelines that turn high-volume, multi-source data into reliable, analytics-ready datasets. 5+ years on Azure and Snowflake, from requirements through deployment and production support.
 
----
+## 🔧 What I work on
 
-## Tech Skills
+- **ETL/ELT pipelines:** ADF, Databricks, PySpark, ADLS Gen2, Snowflake
+- **Lakehouse & Medallion architecture:** Bronze/Silver/Gold on Delta Lake
+- **Incremental processing:** CDC, SCD Type 1 & 2, Snowflake Streams, Tasks, Snowpipe, MERGE
+- **Data quality & reliability:** validation, reconciliation, logging, retries, monitoring
+- **Performance tuning:** partition pruning, broadcast joins, AQE, file compaction
+- **Security & DevOps:** Key Vault, Entra ID, Snowflake RBAC, CI/CD with Azure DevOps and GitHub
 
-***Data Engineering***
-- Python | PySpark | Spark SQL
-- ETL Pipelines | Data Transformation
-- Data Lake / Delta Lake / Lakehouse
-- Data Quality, Monitoring & Observability
+## 🛠️ Tech stack
 
-***Cloud & DevOps***
-- AWS (EC2, RDS, S3, Lambda)
-- Docker & Containers
-- Git & GitHub
-- Linux / Shell Scripting
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-***Backend & Full-Stack***
-- Java | Spring Boot | Hibernate
-- REST APIs | Microservices
-- SQL | PostgreSQL | MongoDB
-- Frontend: HTML | CSS | JavaScript | React | Bootstrap
+**Platforms:** Azure Data Factory, Azure Databricks, ADLS Gen2, Azure Synapse Analytics, Snowflake
+**Languages:** Python, SQL, PySpark, Spark SQL
+**Formats & storage:** Delta Lake, Parquet
 
----
+## 📫 Connect
 
-## Currently Working On
-- Designing **end-to-end data pipelines** for analytics
-- Building **ETL workflows** with PySpark & SQL
-- Implementing **data quality checks** and monitoring
-
-
-## **Featured Projects**
-
-### **Data Engineering Projects**
-
-* ETL pipelines with PySpark and SQL
-* Data quality checks and monitoring solutions
-
-### **Full-Stack Java Projects**
-
-* Backend with Spring Boot and REST APIs
-* Frontend with HTML, CSS, React
-
-
-⭐ **I’m always open to learning, collaborating, and building impactful data-driven solutions!**
-
-
-⭐ Passionate about learning new technologies, building scalable data solutions, and contributing to open-source projects.
+- LinkedIn: https://www.linkedin.com/in/govardhan-kamsali-a995b3158/
