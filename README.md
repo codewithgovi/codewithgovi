@@ -28,6 +28,10 @@ I build cloud data pipelines that turn high-volume, multi-source data into relia
 **Languages:** Python, SQL, PySpark, Spark SQL
 **Formats & storage:** Delta Lake, Parquet
 
+## Certifications
+
+- **Databricks Certified Data Engineer Associate** | Databricks | Issued Jan 2026
+
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/govardhan-kamsali-a995b3158/
